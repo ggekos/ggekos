@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi I'm Alex
 
-<!--
-**ggekos/ggekos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Dev DevOps based in Paris, France.
 
-Here are some ideas to get you started:
+- 🏢  I'm currently working full-time as devops/product-owner at primaalab
+- previously CTO at https://www.gererseul.com/
+- previously lead-dev at https://www.quable.com/
+- 📫 contact me : alexandre@colella.fr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages and Tools :
+PHP, Symfony, Python, Go, Javascript, NodeJs, EmberJs, VueJs, Ansible.
+
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/alexandrecolella/">LinkedIn</a>
+- 🌐 Updating my personal website <a href="https://colella.fr">colella.fr</a>
