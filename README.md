@@ -2,7 +2,7 @@
 
 #### I'm a Dev DevOps based in Paris, France.
 
-- 🏢  I'm currently working full-time as devops/product-owner at primaalab
+- 🏢  I'm currently software team leader at primaalab
 - previously CTO at <a href="https://www.gererseul.com">GérerSeul</a>
 - previously lead-dev at <a href="https://www.quable.com/">Quable</a>
 - 📫 contact me : alexandre@colella.fr
