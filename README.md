@@ -1,6 +1,7 @@
 ### Hi I'm Alex
 
-- 🏢  I'm currently Engineering Manager at <a href="https://www.primaalab.com/">primaalab</a> and CTO of <a href="https://popsink.dev">popsink</a>
+- 🏢  I'm currently CTO of <a href="https://www.popsink.com">popsink</a>
+- previously Engineering Manager at <a href="https://www.primaalab.com/">primaalab</a>
 - previously CTO at <a href="https://www.gererseul.com">GérerSeul</a>
 - previously lead-dev at <a href="https://www.quable.com/">Quable</a>
 - 📫 contact me : alexandre@colella.fr
